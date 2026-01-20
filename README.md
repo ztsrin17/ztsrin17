@@ -18,9 +18,35 @@ Here are some ideas to get you started:
 ## Signal in the noise
 
 Reskilling, beginner.  
-SQL, Excel, Python, Statistics, Power BI.  
+SQL, Excel, Python (learning), Statistics, Power BI.  
 Filtering and cleaning.  
 English and French.  
-Why? Numbers, coding, debugging, organizing, sifting through materials and junk to find what I want and need.  
+Why? Numbers, sifting through the chaos to find what I want and need.  
 
 kāishǐ
+
+## Latest Projects
+
+### SQL - [Danny's Diner Case Study 1](https://github.com/ztsrin17/Data-Analyst-Luxembourg/tree/main/T1-SQL/Case-Study-1-Dannys-Diner)
+Restaurant customer analytics using SQL (CTEs, Window Functions, Multi-table JOINs)
+10 business questions answered, 3-tier customer segmentation, loyalty program optimization recommendations
+
+#### Tools Used
+
+- **SQL** for data querying and analysis.
+- **DB Browser for SQLite** as the database management tool.
+- **HACKMD.io** for code development & note-taking
+- **GitHub** for platform
+- **VSCode** for occasional code development
+
+---
+
+### Excel - [Luxembourg Rental Market Analysis (2009-2024)](https://github.com/ztsrin17/Data-Analyst-Luxembourg/tree/main/projects/Luxembourg-Rental-Project-Excel)
+15-year apartment rental market analysis with Excel & Power Query
+16 datasets consolidated via custom ETL, 102 municipalities analyzed, 2 interactive dashboards created
+
+#### Tools Used
+
+-   **Microsoft Excel:** Core tool for analysis, visualization, and dashboarding.
+-   **Power Query:** Used for the entire ETL (Extract, Transform, Load) process.
+-   **Pivot Tables & Pivot Charts:** Primary tools for data aggregation and visualization.
