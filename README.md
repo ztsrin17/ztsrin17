@@ -39,8 +39,6 @@ Restaurant customer analytics using SQL (CTEs, Window Functions, Multi-table JOI
 - **GitHub** for platform
 - **VSCode** for occasional code development
 
----
-
 ### Excel - [Luxembourg Rental Market Analysis (2009-2024)](https://github.com/ztsrin17/Data-Analyst-Luxembourg/tree/main/projects/Luxembourg-Rental-Project-Excel)
 15-year apartment rental market analysis with Excel & Power Query
 16 datasets consolidated via custom ETL, 102 municipalities analyzed, 2 interactive dashboards created
