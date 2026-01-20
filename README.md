@@ -28,7 +28,8 @@ kāishǐ
 ## Latest Projects
 
 ### SQL - [Danny's Diner Case Study 1](https://github.com/ztsrin17/Data-Analyst-Luxembourg/tree/main/T1-SQL/Case-Study-1-Dannys-Diner)
-Restaurant customer analytics using SQL (CTEs, Window Functions, Multi-table JOINs).
+
+Restaurant customer analytics using SQL (CTEs, Window Functions, Multi-table JOINs).  
 10 business questions answered, 3-tier customer segmentation, loyalty program optimization recommendations
 
 #### Tools Used
@@ -40,7 +41,8 @@ Restaurant customer analytics using SQL (CTEs, Window Functions, Multi-table JOI
 - **VSCode** for occasional code development
 
 ### Excel - [Luxembourg Rental Market Analysis (2009-2024)](https://github.com/ztsrin17/Data-Analyst-Luxembourg/tree/main/projects/Luxembourg-Rental-Project-Excel)
-15-year apartment rental market analysis with Excel & Power Query.
+
+15-year apartment rental market analysis with Excel & Power Query.  
 16 datasets consolidated via custom ETL, 102 municipalities analyzed, 2 interactive dashboards created
 
 #### Tools Used
